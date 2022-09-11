@@ -3,7 +3,7 @@
 ## I'm a Student of Computer science, MERN Stack Developer, and Problem Solver!!
 
 - 🌱 I’m currently exploring programming language
-- 👯 I’m looking to collaborate with other developer
+- 👯 I’m looking to collaborate with other programmer and developer
 - 🥅 2022 Goals: Become Pro problem solver
 - ⚡ I love to solve programming problems
 

@@ -6,8 +6,9 @@
  👯 I’m looking to collaborate with other programmer and developer<br/>
  🥅 2022 Goals: Become Pro problem solver<br/>
  ⚡ I love to solve programming problems<br/>
-
+<p>
 <hr>
+</p>
 ### :chart_with_upwards_trend:GitHub Stats
 
 

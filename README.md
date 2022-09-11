@@ -1,3 +1,12 @@
+### Hi there, I'm Uuns Masum 👋
+
+## I'm a Student of Computer science, MERN Stack Developer, and Problem Solver!!
+
+- 🌱 I’m currently exploring programming language
+- 👯 I’m looking to collaborate with other developer
+- 🥅 2022 Goals: Become Pro problem solver
+- ⚡ I love to solve programming problems
+
 ### :chart_with_upwards_trend:GitHub Stats
 
 

@@ -1,4 +1,4 @@
-<img align="center" width="600" alt="Coding" src="https://drive.google.com/file/d/1PI1k9UwPU_VBmUta34If7MLCPTO_HZxH/view?usp=sharing">
+<img align="center" width="600" alt="Coding" src="https://i.ibb.co/7btSkw9/2.png">
 ## Hi there, I'm Uuns Masum 👋
 
 ### I'm a Student of Computer science, MERN Stack Developer, and Problem Solver!!

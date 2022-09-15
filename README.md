@@ -1,4 +1,4 @@
-<img align="center" width="100%" alt="Coding" src="https://i.ibb.co/M57QddC/3.png">
+<img align="center" width="100%" alt="Coding" src="https://i.ibb.co/K7sPQby/3.png">
 
 ## Hi there, I'm Uuns Masum 👋
 

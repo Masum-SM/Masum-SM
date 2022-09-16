@@ -16,15 +16,6 @@
 
 ![Profile views](https://gpvc.arturio.dev/Masum-SM) 
 <br/>
-<a href="https://codeforces.com/profile/unusmasum0">
-   <img src="https://raw.githubusercontent.com/unusmasum0/ct-stats/main/output/max_rating.svg" />
-</a>
-
-<br />
-<p float="left">
-    <img height="230px" src="https://raw.githubusercontent.com/unusmasum0/ct-stats/main/output/light_card.svg" alt="Statistics"/>
-</p>
-<br/>
 
 :chart_with_upwards_trend:GitHub Stats
 

@@ -15,11 +15,16 @@
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
 ![Profile views](https://gpvc.arturio.dev/Masum-SM) 
+<br/>
 <a href="https://codeforces.com/profile/unusmasum0">
    <img src="https://raw.githubusercontent.com/unusmasum0/ct-stats/main/output/max_rating.svg" />
 </a>
 
-
+<br />
+<p float="left">
+    <img height="230px" src="https://raw.githubusercontent.com/unusmasum0/ct-stats/main/output/light_card.svg" alt="Statistics"/>
+</p>
+<br/>
 
 :chart_with_upwards_trend:GitHub Stats
 

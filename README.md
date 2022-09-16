@@ -11,10 +11,10 @@
 <p>
 <hr>
 </p>
-![Profile views](https://gpvc.arturio.dev/Masum-SM)  
+
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
-
+![Profile views](https://gpvc.arturio.dev/Masum-SM)  
 
 
 
@@ -29,10 +29,7 @@
 # [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Masum-SM&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 <br />
 
-<br/>
-
 ### Languages and Tools:
-
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />

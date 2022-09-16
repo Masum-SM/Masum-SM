@@ -21,9 +21,6 @@
 <br />
 <br />
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg' alt='codeforces' height='40'>](https://codeforces.com/profile/unusmasum0)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg' alt='codechef' height='40'>](https://www.codechef.com/users/unusmasum0)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/unusmasum0)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/unusmasum0/)  
-
-
 
 # [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Masum-SM&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 <br />
@@ -53,3 +50,5 @@
 
 <br />
 <br />
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Masum-SM)  

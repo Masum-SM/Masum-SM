@@ -1,6 +1,6 @@
 <img align="center" width="100%" alt="Coding" src="https://i.ibb.co/K7sPQby/3.png">
 
-## Hi there, I'm Uuns Masum 👋
+## Hi there, I'm Unus Masum 👋
 
 ### I'm a Student of Computer science, MERN Stack Developer, and Problem Solver!!
 

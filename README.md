@@ -28,6 +28,13 @@
 # [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Masum-SM&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 <br />
 
+<details>
+ <summary>Language Statistics...</summary>
+ <p align="center >
+  <img src="https://wakatime.com/share/@018c13f1-7de5-4b93-8abc-9a92b009d38c/926e2ecc-b399-4aa4-8cfb-ce6c13f040e3.svg height='400>
+ </p>
+</details>
+
 ### Languages and Tools:
 
 <!-- <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />

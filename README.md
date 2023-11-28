@@ -29,9 +29,9 @@
 <br />
 
 <details>
- <summary>Language Statistics...</summary>
- <p align="center >
-  <img src="https://wakatime.com/share/@018c13f1-7de5-4b93-8abc-9a92b009d38c/926e2ecc-b399-4aa4-8cfb-ce6c13f040e3.svg" height='400>
+ <summary>Language Statistics...</summary><br/>
+ <p align="center" >
+  <img src="https://wakatime.com/share/@018c13f1-7de5-4b93-8abc-9a92b009d38c/926e2ecc-b399-4aa4-8cfb-ce6c13f040e3.svg" height='400/>
  </p>
 </details>
 
